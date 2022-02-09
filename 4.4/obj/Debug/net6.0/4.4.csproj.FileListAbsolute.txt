@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-4\4.4\bin\Debug\net6.0\4.4.exe
+E:\Practical .NET\Practical-4\4.4\bin\Debug\net6.0\4.4.deps.json
+E:\Practical .NET\Practical-4\4.4\bin\Debug\net6.0\4.4.runtimeconfig.json
+E:\Practical .NET\Practical-4\4.4\bin\Debug\net6.0\4.4.dll
+E:\Practical .NET\Practical-4\4.4\bin\Debug\net6.0\ref\4.4.dll
+E:\Practical .NET\Practical-4\4.4\bin\Debug\net6.0\4.4.pdb
+E:\Practical .NET\Practical-4\4.4\obj\Debug\net6.0\4.4.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-4\4.4\obj\Debug\net6.0\4.4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-4\4.4\obj\Debug\net6.0\4.4.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-4\4.4\obj\Debug\net6.0\4.4.AssemblyInfo.cs
+E:\Practical .NET\Practical-4\4.4\obj\Debug\net6.0\4.4.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-4\4.4\obj\Debug\net6.0\4.4.dll
+E:\Practical .NET\Practical-4\4.4\obj\Debug\net6.0\ref\4.4.dll
+E:\Practical .NET\Practical-4\4.4\obj\Debug\net6.0\4.4.pdb
+E:\Practical .NET\Practical-4\4.4\obj\Debug\net6.0\4.4.genruntimeconfig.cache

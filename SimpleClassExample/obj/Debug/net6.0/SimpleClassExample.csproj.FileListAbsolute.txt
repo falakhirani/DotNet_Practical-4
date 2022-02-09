@@ -1,0 +1,15 @@
+E:\Practical .NET\Practical-4\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.exe
+E:\Practical .NET\Practical-4\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.deps.json
+E:\Practical .NET\Practical-4\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.runtimeconfig.json
+E:\Practical .NET\Practical-4\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.dll
+E:\Practical .NET\Practical-4\SimpleClassExample\bin\Debug\net6.0\ref\SimpleClassExample.dll
+E:\Practical .NET\Practical-4\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.pdb
+E:\Practical .NET\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.csproj.AssemblyReference.cache
+E:\Practical .NET\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical .NET\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.AssemblyInfoInputs.cache
+E:\Practical .NET\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.AssemblyInfo.cs
+E:\Practical .NET\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.csproj.CoreCompileInputs.cache
+E:\Practical .NET\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.dll
+E:\Practical .NET\Practical-4\SimpleClassExample\obj\Debug\net6.0\ref\SimpleClassExample.dll
+E:\Practical .NET\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.pdb
+E:\Practical .NET\Practical-4\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.genruntimeconfig.cache
